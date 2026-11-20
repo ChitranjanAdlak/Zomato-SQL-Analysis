@@ -97,4 +97,4 @@ This project explores the following business questions:
 ## 👨‍💻 Author
 
 Created as a SQL Data Analysis portfolio project to practice SQL querying, database relationships, and business-oriented data analysis.<img width="865" height="489" alt="Zomatadf_Schema" src="https://github.com/user-attachments/assets/6b5c2dce-b887-4d45-a938-0c5ae3330242" />
-<img width="865" height="489" alt="Zomatadf_Schema" src="https://github.com/user-attachments/assets/fed6674c-93b7-4119-8d31-7a9ba52c62c2" />
+<img width="1452" height="787" alt="Zomato_project " src="https://github.com/user-attachments/assets/a8240537-49cc-46c6-ae56-ae545a9123b5" />
